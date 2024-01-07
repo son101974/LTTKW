@@ -1,0 +1,35 @@
+.h1 {
+    color: red;
+    font-size: 30px;
+}
+
+.style2 {
+    color: blue;
+    font-size: 50px;
+}
+
+.box1 {
+    margin-right: 10px;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
+
+.box2 {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.box3 {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: royalblue;
+}
+
+.container {
+   display: inline-block;
+}

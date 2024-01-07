@@ -1,0 +1,44 @@
+.h1 {
+    color: red;
+    font-size: 30px;
+}
+
+.style2 {
+    color: blue;
+    font-size: 50px;
+}
+
+.box0 {
+    width: 100px;
+    height: 100px;
+}
+
+.box1 {
+    /* margin-right: 10px; */
+    /* display: inline-block; */
+    background-color: brown;
+}
+
+.box2 {
+    /* display: inline-block; */
+    background-color: yellow;
+
+}
+
+.box3 {
+    /* display: inline-block; */
+    background-color: royalblue;
+}
+
+.container {
+    width: 800px;
+    height: 500px;
+    display: flex;
+    align-items: flex-end;
+    border: 2px solid rgb(34, 168, 178);
+    /* justify-content: center; */
+    flex-direction: column; 
+    /* justify-content: flex-end; */
+    justify-content: flex-end;
+
+}
